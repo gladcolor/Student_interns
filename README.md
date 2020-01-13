@@ -9,7 +9,7 @@ Building a classifier to detect the number of storie of a house. `house_location
 
 [Pytorch fine-tuning](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 
-Images from Task should be divided into training set (70%) and test set (30%). Each training sample contains an image and a class label. The label represent the number of stories. For example:
+Images from Task 1 should be divided into training set (70%) and test set (30%). Each training sample contains an image and a class label. The label represent the number of stories. For example:
 
 | Class label | Number of stories |
 | --- | ----------- |
