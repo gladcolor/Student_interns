@@ -7,7 +7,7 @@ Downloading at least 1000 images from `house_location.csv`. You can use `GPano.s
 Using any deep learning method to detect houses/buildings in the downloaded images.
 
 
-Youc can havea look at [ADK20k dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/dataset_browser/)
+Youc can have a look at [ADK20k dataset](http://groups.csail.mit.edu/vision/datasets/ADE20K/dataset_browser/)
 
 ![](/img/building_ade20k.jpg)
 
