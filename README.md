@@ -1,7 +1,7 @@
 # Student_interns
 
 ## Task 1
-Downloading at least 10000 images from `house_location.csv`. You can use `GPano.shootLonlats_mp()` in GPano.py from https://github.com/gladcolor/StreetView. `mp` means Multiple Processing.
+Downloading at least 10000 images from `house_location.csv`. You can use `GPano.shootLonlats()` in GPano.py from https://github.com/gladcolor/StreetView. You can also use  `GPano.shootLonlats_mp()` which implemented with Multiple Processing.
 
 
 # Task 2
