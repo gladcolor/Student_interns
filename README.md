@@ -28,7 +28,7 @@ Youc can have a look at [ADK20k dataset](http://groups.csail.mit.edu/vision/data
 ![](/img/house_ade20k.jpg)
 
 ## Task 4 Image Segmentation
-Using GluonCV (MXNet) in Python to segment street view images. Load five pre-trained models (fcn_resnet101_ade, psp_resnet101_ade, deeplab_resnet101_ade, psp_resnet101_citys, and deeplab_v3b_plus_wideresnet_citys), then inference the images in `StreetViewImage.zip`. Follow the toturials in [here](https://gluon-cv.mxnet.io/build/examples_segmentation/index.html). If you do not have a GPU, online platforms such as Google Colab are recommended.
+Using GluonCV (MXNet) in Python to segment street view images. Load five pre-trained models (fcn_resnet101_ade, psp_resnet101_ade, deeplab_resnet101_ade, psp_resnet101_citys, and deeplab_v3b_plus_wideresnet_citys), then inference the images in [StreetViewImage.zip](https://github.com/gladcolor/Student_interns/tree/master/StreetViewImages). Follow the toturials in [here](https://gluon-cv.mxnet.io/build/examples_segmentation/index.html). If you do not have a GPU, online platforms such as Google Colab are recommended.
 
 After having the segmentation result, using Matplotlib or any method you prefer to mosaic the results of the same image together, so we can compare them. The mosaiced image looks like this:
 ![](/img/mosaic.jpg)
