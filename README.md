@@ -34,9 +34,9 @@ After having segmentation results, using Matplotlib or any methods you like to m
 ![](/img/mosaic.jpg)
 
 ## Task 5 Code review
-Please review the code of GPano.py in https://github.com/gladcolor/StreetView. You can:
+Please review the code of GPano.py in https://github.com/gladcolor/StreetView. This module is used to obtain and manipulate Google Street View images. You should:
 1. Draw a graph to show the relationships between the classes and methods and present the insights of the graph.
 2. Based on you experience, find out three major problems in programming design and write down your suggestion to improve them.
-3. Find out three methods can be largely speed up.
+3. Find out three methods can be largely speeded up.
 4. Your opinions to refactor this module other than the suggestion for Question 2 and 3.
-5. Write down your ideas in a well-structured documents with short sentenses or bullets. Make sure your writing is concise and concise and accessable.
+5. Write down your ideas in a well-structured documents with short sentenses or bullets. Make sure your writing is concise and accessable.
