@@ -33,3 +33,10 @@ Using GluonCV (MXNet) in Jupyter Notebook (Python) to segment street view images
 After having segmentation results, using Matplotlib or any methods you like to mosaic the results of the same image together, so we can compare them easily. You should submit a Github.com repository link which contains your runnable code and 1,896 mosaic images (.jpg format, 3000*2000 pixels). The mosaiced image looks like this:
 ![](/img/mosaic.jpg)
 
+## Task 5 Code review
+Please review the code of GPano.py in https://github.com/gladcolor/StreetView. You can:
+1. Draw a graph to show the relationships between the classes and methods and present the insights of the graph.
+2. Based on you experience, find out three major problems in programming design and write down your suggestion to improve them.
+3. Find out three methods can be large speed up.
+4. Your opinions to refactor this module other than the suggestion for Question 2 and 3.
+5. Write down your ideas in a well-structured documents with short sentenses or bullets. Make sure your writing is concise and easy to read.
