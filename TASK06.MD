@@ -9,5 +9,6 @@ Please extract attributes of "JURSCODE", "ACCTID", "story", "material", "Longitu
 There are two counties (Montgomery, Prince George's) have been processed, you can find the results [here](https://github.com/gladcolor/Student_interns/blob/master/House_location.zip). Only data of house is left.
 
 Layers in a project:
+
 ![](/img/layers.jpg)
 
