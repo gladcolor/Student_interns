@@ -5,7 +5,7 @@ ArcGIS software can open the projects in MdProperty View, and QGIS can open FIND
 
 ![](/img/Task6.jpg)
 
-Please extract attributes of "JURSCODE", "ACCTID", "story", "material", "Longitude", and "Latitude" of the buildings.
+Please extract attributes of "JURSCODE", "ACCTID", "story", "material", "Longitude", and "Latitude" of each building.
 There are two counties (Montgomery, Prince George's) have been processed, you can find the results [here](https://github.com/gladcolor/Student_interns/blob/master/House_location.zip). Only data of the house is in the file.
 
 Layers in a project:
