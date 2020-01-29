@@ -5,7 +5,7 @@ Downloading at least 10000 images from `house_location.csv`. You can use `GPano.
 
 
 # Task 2 Image classification
-Building a classifier to detect the number of stories of a house. `house_location.csv` have a `story` column. Please use Pytorch. If you do not familiar with Pytorch, following this great tutorial:  
+Building a classifier to detect the number of stories of a house. `house_location.csv` have a `story` column. Please use Pytorch. If you do not familiar with Pytorch, follow this great tutorial:  
 
 [Pytorch fine-tuning](https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html)
 
